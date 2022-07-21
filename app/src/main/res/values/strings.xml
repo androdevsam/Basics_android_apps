@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ViewBinding</string>
+    <string name="i_am_here_due_to_main_binding">i am here due to main binding</string>
+    <string name="button">Button</string>
+</resources>
